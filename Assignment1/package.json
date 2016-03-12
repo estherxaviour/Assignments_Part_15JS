@@ -1,0 +1,9 @@
+{
+  "name": "socket.io-example",
+  "description": "Example of socket.io",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "socket.io": "*"
+  }
+}
